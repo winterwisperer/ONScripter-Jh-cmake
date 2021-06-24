@@ -1,0 +1,1 @@
+remove USE_CDROM USE_SMPEG because SDL2 nolonger support it
